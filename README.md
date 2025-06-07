@@ -21,6 +21,19 @@ Now growing Tasty Tech Labs as an independent studio working with some of the be
 
 ---
 
+## 🛠️ Tech Stack
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+---
+
 ## 📫 Let’s connect
 - [LinkedIn](https://linkedin.com/in/dylan-anstett)
 - [Tasty Tech Labs](https://tastytechlabs.com)
