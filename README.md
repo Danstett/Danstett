@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
-<!--
-**Danstett/Danstett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Tasty Tech Labs](https://tastytechlabs.com) — we build mobile apps and custom integrations that drive revenue and loyalty for brands of all sizes.  
 
-Here are some ideas to get you started:
+Specializing in:
+- Native & cross-platform mobile apps (React Native, Flutter)
+- Restaurant and hospitality tech (Toast, Olo, SevenRooms, Shopify, Acuity, PeopleVine)
+- Complex API integrations and backend services
+- Custom digital ordering experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously led mobile engineering for brands like Bojangles and DiBella’s Subs.
+
+Now growing Tasty Tech Labs as an independent studio working with some of the best restaurant brands in the country.
+
+---
+
+## 🚀 Current Focus
+- Building first-party mobile and loyalty experiences
+- Expanding into kiosk, web, and digital loyalty ecosystems
+- Consulting on custom software architecture for growing brands
+
+---
+
+## 📫 Let’s connect
+- [LinkedIn](https://linkedin.com/in/dylan-anstett)
+- [Tasty Tech Labs](https://tastytechlabs.com)
